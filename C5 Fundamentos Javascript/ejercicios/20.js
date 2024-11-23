@@ -5,6 +5,10 @@ function resta(x, y) {
   // 10, 5 ---> 5
   // 5, 5 ---> 0
   // Tu código:
-}
+  console.log(x - y);
+  return x - y;
+  }
+
+resta(10, 5)
 
 module.exports = resta;
