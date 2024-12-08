@@ -7,5 +7,6 @@ function sumarHastaN(n) {
     otro += i;  } 
   return otro;
 }
+
 console.log(sumarHastaN(5))
 module.exports = sumarHastaN;
